@@ -1,0 +1,6 @@
+module Pods_RN {
+  umbrella header "Pods-RN-umbrella.h"
+
+  export *
+  module * { export * }
+}
